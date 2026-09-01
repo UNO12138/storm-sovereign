@@ -21,6 +21,26 @@
 - **对话分支**：在叙事流程中提供选项与分支内容，增强参与感。
 - **视觉探索**：以赛博朋克的霓虹感与九龙城寨式高密度建筑意象，构建具有港片气质的场景氛围。
 
+## 课程 Game Jam 记录
+
+本作品完成于课程 Game Jam 活动，并以可运行版本提交。
+
+<p align="center">
+  <img src="assets/game-jam/game-jam-submission.png" width="760" alt="GAFA Game Jam 2025 提交页">
+</p>
+
+## 游戏氛围与试玩记录
+
+开场以群像构图建立港片叙事氛围；后续通过赛博街景战斗和室内 NPC 对话，将视觉探索落实到实际可玩流程中。
+
+<p align="center">
+  <img src="assets/game-jam/opening-visual-reference.png" width="760" alt="Storm Sovereign 开场视觉氛围">
+</p>
+
+| 赛博街景战斗试玩 | NPC 对话场景试玩 |
+| --- | --- |
+| ![赛博街景战斗试玩](assets/game-jam/game-jam-playtest-combat.jpg) | ![NPC 对话场景试玩](assets/game-jam/game-jam-playtest-dialogue.jpg) |
+
 ## 技术信息
 
 - **引擎**：Unity
